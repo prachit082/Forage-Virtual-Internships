@@ -1,0 +1,60 @@
+/* Commonwealth Bank Style Guidelines */
+
+* {
+  /* All text should be in a single sans serif font */
+  font-family: "Lucida Sans", "Lucida Grande", "Lucida Sans Unicode", sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  /* Using a secondary color for the page background */
+  background-color: #EBEBEB; /* Neutral Light Gray */
+  margin: 0;
+  padding: 40px;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.content-box {
+  /* Using a secondary color for the main content area */
+  background-color: #FFFFFF; /* White */
+}
+
+h1 {
+  /* Using a secondary color for the heading background */
+  background-color: #1E1E1E; /* Neutral Black */
+  /* Design should use at least one primary colour */
+  color: #FFCC00; /* Primary Yellow */
+  /* Title text should be a 70pt. font */
+  font-size: 70pt;
+  text-align: center;
+  margin: 0;
+  padding: 50px 30px;
+  font-weight: normal;
+}
+
+.text-content {
+    padding: 20px 50px 50px 50px;
+}
+
+h2 {
+  /* Subheading text should be a 38pt. font */
+  font-size: 38pt;
+  /* All text should be black */
+  color: #1E1E1E;
+  margin-top: 40px;
+  margin-bottom: 15px;
+  font-weight: 600;
+}
+
+p {
+  /* Body text should be an 18pt. font */
+  font-size: 18pt;
+  /* All text should be black */
+  color: #1E1E1E;
+  line-height: 1.5;
+  margin: 0;
+}
