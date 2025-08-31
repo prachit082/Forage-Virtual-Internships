@@ -10,3 +10,13 @@ List of the certifications:
 - Explored web hosting security measures, drafting a comprehensive proposal on secure hosting practices to accommodate future website expansions and protect against potential cyber threats.
 
 - [Click Here For The Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/2sNmYuurxgpFYawco/wJMjCSKFhuj97x6F3_2sNmYuurxgpFYawco_68b065e9670d86f84c91554f_1756394942900_completion_certificate.pdf)
+
+### 2 - JPMorgan Chase & Co. : Software Engineering Virtual Experience
+
+- Completed a comprehensive job simulation focused on building the backend core for "Midas", a financial transactions processing system using a modern Java technology stack.
+- Engineered the backend core for the financial system using Spring Boot and Java 17, establishing a robust microservice architecture for processing financial data.
+- Integrated the application with Apache Kafka, developing a message listener to asynchronously consume, deserialize, and process streams of financial transaction data, ensuring system decoupling and scalability.
+- Implemented data persistence and complex business logic using Spring Data JPA and an H2 in-memory database. Developed transactional logic ```(@Transactional)``` to validate financial rules (e.g., sufficient funds) and ensure data integrity during atomic balance updates.
+- Developed full-stack API capabilities by both consuming an external REST API (using RestTemplate) to incorporate incentive data, and exposing a new secure endpoint ```(@RestController)``` for clients to query user account balances.
+
+- [Click Here For The Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Sj7temL583QAYpHXD/E6McHJDKsQYh79moz_Sj7temL583QAYpHXD_68b065e9670d86f84c91554f_1756621506204_completion_certificate.pdf)
