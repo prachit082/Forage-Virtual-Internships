@@ -20,3 +20,11 @@ List of the certifications:
 - Developed full-stack API capabilities by both consuming an external REST API (using RestTemplate) to incorporate incentive data, and exposing a new secure endpoint ```(@RestController)``` for clients to query user account balances.
 
 - [Click Here For The Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Sj7temL583QAYpHXD/E6McHJDKsQYh79moz_Sj7temL583QAYpHXD_68b065e9670d86f84c91554f_1756621506204_completion_certificate.pdf)
+
+### 3 - Electronic Arts EA : Software Engineering
+
+- Proposed a new feature for the EA Sports College Football and wrote a Feature Proposal describing it to other stakeholders.
+- Built a class diagram and created a header file in C++ with class definitions for each object.
+- Patched a bugfix and optimized the EA Sports College Football codebase by implementing an improved data structure.
+
+- [Click Here For The Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/j43dGscQHtJJ57N54/a77WE3de8qrxWferQ_j43dGscQHtJJ57N54_68b065e9670d86f84c91554f_1756788206349_completion_certificate.pdf)
