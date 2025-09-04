@@ -28,3 +28,12 @@ List of the certifications:
 - Patched a bugfix and optimized the EA Sports College Football codebase by implementing an improved data structure.
 
 - [Click Here For The Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/j43dGscQHtJJ57N54/a77WE3de8qrxWferQ_j43dGscQHtJJ57N54_68b065e9670d86f84c91554f_1756788206349_completion_certificate.pdf)
+
+### 4 - Lloyd's Banking Group : UX Design Introduction
+
+- Completed a job simulation involving competitor research and user experience enhancement for Lloyds' UX Design team.
+- Designed and analysed customer surveys, collecting feedback from 50 respondents to identify key areas for feature improvement.
+- Conducted ethnographic studies and observational research to understand user behaviour, resulting in actionable insights to      improve navigation and security features.
+- Utilised data visualisation tools and techniques to present survey findings, enhancing the clarity and impact of user experience recommendations.
+
+- [Click Here For The Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Zbnc2o4ok6kD2NEXx/N65hfzBKXRiATv6yd_Zbnc2o4ok6kD2NEXx_68b065e9670d86f84c91554f_1756991663815_completion_certificate.pdf)
